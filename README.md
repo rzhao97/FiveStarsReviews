@@ -1,5 +1,5 @@
 <p align="right">
-<img src="img/yelp-logo.png" width="300" height="270">
+<img src="img/yelp-logo.png">
 </p>
 
 # FiveStarsReviews
